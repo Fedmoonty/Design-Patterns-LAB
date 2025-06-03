@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Uni\\LR\\LR2_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5946010D-4829-4A7C-A17B-A5979CB66331}|LR2_2\\LR2_2.csproj|e:\\uni\\lr\\lr2_2\\lr2_2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5946010D-4829-4A7C-A17B-A5979CB66331}|LR2_2\\LR2_2.csproj|solutionrelative:lr2_2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5946010D-4829-4A7C-A17B-A5979CB66331}|LR2_2\\LR2_2.csproj|e:\\uni\\lr\\lr2_2\\lr2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5946010D-4829-4A7C-A17B-A5979CB66331}|LR2_2\\LR2_2.csproj|solutionrelative:lr2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5946010D-4829-4A7C-A17B-A5979CB66331}|LR2_2\\LR2_2.csproj|e:\\uni\\lr\\lr2_2\\lr2_2\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5946010D-4829-4A7C-A17B-A5979CB66331}|LR2_2\\LR2_2.csproj|solutionrelative:lr2_2\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5946010D-4829-4A7C-A17B-A5979CB66331}|LR2_2\\LR2_2.csproj|e:\\uni\\lr\\lr2_2\\lr2_2\\bookproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5946010D-4829-4A7C-A17B-A5979CB66331}|LR2_2\\LR2_2.csproj|solutionrelative:lr2_2\\bookproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5946010D-4829-4A7C-A17B-A5979CB66331}|LR2_2\\LR2_2.csproj|e:\\uni\\lr\\lr2_2\\lr2_2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5946010D-4829-4A7C-A17B-A5979CB66331}|LR2_2\\LR2_2.csproj|solutionrelative:lr2_2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookProxy.cs",
+              "DocumentMoniker": "E:\\Uni\\LR\\LR2_2\\LR2_2\\BookProxy.cs",
+              "RelativeDocumentMoniker": "LR2_2\\BookProxy.cs",
+              "ToolTip": "E:\\Uni\\LR\\LR2_2\\LR2_2\\BookProxy.cs",
+              "RelativeToolTip": "LR2_2\\BookProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:41:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Uni\\LR\\LR2_2\\LR2_2\\User.cs",
+              "RelativeDocumentMoniker": "LR2_2\\User.cs",
+              "ToolTip": "E:\\Uni\\LR\\LR2_2\\LR2_2\\User.cs",
+              "RelativeToolTip": "LR2_2\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:40:15.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Uni\\LR\\LR2_2\\LR2_2\\Book.cs",
+              "RelativeDocumentMoniker": "LR2_2\\Book.cs",
+              "ToolTip": "E:\\Uni\\LR\\LR2_2\\LR2_2\\Book.cs",
+              "RelativeToolTip": "LR2_2\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:37:25.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "E:\\Uni\\LR\\LR2_2\\LR2_2\\IBook.cs",
+              "RelativeDocumentMoniker": "LR2_2\\IBook.cs",
+              "ToolTip": "E:\\Uni\\LR\\LR2_2\\LR2_2\\IBook.cs",
+              "RelativeToolTip": "LR2_2\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:35:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Uni\\LR\\LR2_2\\LR2_2\\Program.cs",
+              "RelativeDocumentMoniker": "LR2_2\\Program.cs",
+              "ToolTip": "E:\\Uni\\LR\\LR2_2\\LR2_2\\Program.cs",
+              "RelativeToolTip": "LR2_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:34:25.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|e:\\uni\\lr_2\\pipes \u0026 filters\\pipes \u0026 filters\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|solutionrelative:pipes \u0026 filters\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|e:\\uni\\lr_2\\pipes \u0026 filters\\pipes \u0026 filters\\prefixfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|solutionrelative:pipes \u0026 filters\\prefixfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|e:\\uni\\lr_2\\pipes \u0026 filters\\pipes \u0026 filters\\uppercasefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|solutionrelative:pipes \u0026 filters\\uppercasefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|e:\\uni\\lr_2\\pipes \u0026 filters\\pipes \u0026 filters\\reversefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|solutionrelative:pipes \u0026 filters\\reversefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|e:\\uni\\lr_2\\pipes \u0026 filters\\pipes \u0026 filters\\pipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|solutionrelative:pipes \u0026 filters\\pipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|e:\\uni\\lr_2\\pipes \u0026 filters\\pipes \u0026 filters\\ifilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DE43AD-9F54-4F8F-A4DA-8449535D18F2}|Pipes \u0026 Filters\\Pipes \u0026 Filters.csproj|solutionrelative:pipes \u0026 filters\\ifilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpperCaseFilter.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\UpperCaseFilter.cs",
+              "RelativeDocumentMoniker": "Pipes \u0026 Filters\\UpperCaseFilter.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\UpperCaseFilter.cs",
+              "RelativeToolTip": "Pipes \u0026 Filters\\UpperCaseFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:44:31.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReverseFilter.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\ReverseFilter.cs",
+              "RelativeDocumentMoniker": "Pipes \u0026 Filters\\ReverseFilter.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\ReverseFilter.cs",
+              "RelativeToolTip": "Pipes \u0026 Filters\\ReverseFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:44:01.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Result.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\Result.cs",
+              "RelativeDocumentMoniker": "Pipes \u0026 Filters\\Result.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\Result.cs",
+              "RelativeToolTip": "Pipes \u0026 Filters\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:43:18.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrefixFilter.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\PrefixFilter.cs",
+              "RelativeDocumentMoniker": "Pipes \u0026 Filters\\PrefixFilter.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\PrefixFilter.cs",
+              "RelativeToolTip": "Pipes \u0026 Filters\\PrefixFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:42:49.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pipeline.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\Pipeline.cs",
+              "RelativeDocumentMoniker": "Pipes \u0026 Filters\\Pipeline.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\Pipeline.cs",
+              "RelativeToolTip": "Pipes \u0026 Filters\\Pipeline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:41:58.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFilter.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\IFilter.cs",
+              "RelativeDocumentMoniker": "Pipes \u0026 Filters\\IFilter.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\Pipes \u0026 Filters\\Pipes \u0026 Filters\\IFilter.cs",
+              "RelativeToolTip": "Pipes \u0026 Filters\\IFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:39:42.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Uni\\LR_2\\APIMain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|e:\\uni\\lr_2\\apimain\\apimain\\someimageentityapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|solutionrelative:apimain\\someimageentityapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|e:\\uni\\lr_2\\apimain\\apimain\\someentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|solutionrelative:apimain\\someentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|e:\\uni\\lr_2\\apimain\\apimain\\entityquerycriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|solutionrelative:apimain\\entityquerycriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|e:\\uni\\lr_2\\apimain\\apimain\\someimageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|solutionrelative:apimain\\someimageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|e:\\uni\\lr_2\\apimain\\apimain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|solutionrelative:apimain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|e:\\uni\\lr_2\\apimain\\apimain\\someentityapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|solutionrelative:apimain\\someentityapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|e:\\uni\\lr_2\\apimain\\apimain\\flexiblesomeentityapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|solutionrelative:apimain\\flexiblesomeentityapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|e:\\uni\\lr_2\\apimain\\apimain\\someentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0996BC89-4BC1-4EDB-B1E4-5B9AD8FDC5F6}|APIMain\\APIMain.csproj|solutionrelative:apimain\\someentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SomeImageEntityApiClient.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\APIMain\\APIMain\\SomeImageEntityApiClient.cs",
+              "RelativeDocumentMoniker": "APIMain\\SomeImageEntityApiClient.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\APIMain\\APIMain\\SomeImageEntityApiClient.cs*",
+              "RelativeToolTip": "APIMain\\SomeImageEntityApiClient.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:31:59.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SomeImageEntity.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\APIMain\\APIMain\\SomeImageEntity.cs",
+              "RelativeDocumentMoniker": "APIMain\\SomeImageEntity.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\APIMain\\APIMain\\SomeImageEntity.cs",
+              "RelativeToolTip": "APIMain\\SomeImageEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:31:56.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SomeEntityRepository.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\APIMain\\APIMain\\SomeEntityRepository.cs",
+              "RelativeDocumentMoniker": "APIMain\\SomeEntityRepository.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\APIMain\\APIMain\\SomeEntityRepository.cs",
+              "RelativeToolTip": "APIMain\\SomeEntityRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:31:49.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SomeEntityApiClient.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\APIMain\\APIMain\\SomeEntityApiClient.cs",
+              "RelativeDocumentMoniker": "APIMain\\SomeEntityApiClient.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\APIMain\\APIMain\\SomeEntityApiClient.cs",
+              "RelativeToolTip": "APIMain\\SomeEntityApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:31:45.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SomeEntity.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\APIMain\\APIMain\\SomeEntity.cs",
+              "RelativeDocumentMoniker": "APIMain\\SomeEntity.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\APIMain\\APIMain\\SomeEntity.cs",
+              "RelativeToolTip": "APIMain\\SomeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:31:39.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlexibleSomeEntityApiClient.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\APIMain\\APIMain\\FlexibleSomeEntityApiClient.cs",
+              "RelativeDocumentMoniker": "APIMain\\FlexibleSomeEntityApiClient.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\APIMain\\APIMain\\FlexibleSomeEntityApiClient.cs*",
+              "RelativeToolTip": "APIMain\\FlexibleSomeEntityApiClient.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:31:34.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityQueryCriteria.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\APIMain\\APIMain\\EntityQueryCriteria.cs",
+              "RelativeDocumentMoniker": "APIMain\\EntityQueryCriteria.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\APIMain\\APIMain\\EntityQueryCriteria.cs",
+              "RelativeToolTip": "APIMain\\EntityQueryCriteria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:30:31.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Uni\\LR_2\\APIMain\\APIMain\\Program.cs",
+              "RelativeDocumentMoniker": "APIMain\\Program.cs",
+              "ToolTip": "E:\\Uni\\LR_2\\APIMain\\APIMain\\Program.cs",
+              "RelativeToolTip": "APIMain\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:25:25.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
