@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|e:\\git\\design-patterns-lab\\lr_3\\visitor\\visitor\\volumecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|solutionrelative:visitor\\volumecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|e:\\git\\design-patterns-lab\\lr_3\\visitor\\visitor\\torus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|solutionrelative:visitor\\torus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|e:\\git\\design-patterns-lab\\lr_3\\visitor\\visitor\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|solutionrelative:visitor\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|e:\\git\\design-patterns-lab\\lr_3\\visitor\\visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|solutionrelative:visitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|e:\\git\\design-patterns-lab\\lr_3\\visitor\\visitor\\parallelepiped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|solutionrelative:visitor\\parallelepiped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|e:\\git\\design-patterns-lab\\lr_3\\visitor\\visitor\\ishapevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|solutionrelative:visitor\\ishapevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|e:\\git\\design-patterns-lab\\lr_3\\visitor\\visitor\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|solutionrelative:visitor\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|e:\\git\\design-patterns-lab\\lr_3\\visitor\\visitor\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490B0EC9-95B7-4CFC-8CE1-03F639E401A3}|Visitor\\Visitor.csproj|solutionrelative:visitor\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VolumeCalculator.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\VolumeCalculator.cs",
+              "RelativeDocumentMoniker": "Visitor\\VolumeCalculator.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\VolumeCalculator.cs",
+              "RelativeToolTip": "Visitor\\VolumeCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:03:21.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\Cube.cs",
+              "RelativeDocumentMoniker": "Visitor\\Cube.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\Cube.cs",
+              "RelativeToolTip": "Visitor\\Cube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:02:18.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Torus.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\Torus.cs",
+              "RelativeDocumentMoniker": "Visitor\\Torus.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\Torus.cs",
+              "RelativeToolTip": "Visitor\\Torus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:01:35.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parallelepiped.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\Parallelepiped.cs",
+              "RelativeDocumentMoniker": "Visitor\\Parallelepiped.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\Parallelepiped.cs",
+              "RelativeToolTip": "Visitor\\Parallelepiped.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:00:56.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sphere.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\Sphere.cs",
+              "RelativeDocumentMoniker": "Visitor\\Sphere.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\Sphere.cs",
+              "RelativeToolTip": "Visitor\\Sphere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:00:16.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShapeVisitor.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\IShapeVisitor.cs",
+              "RelativeDocumentMoniker": "Visitor\\IShapeVisitor.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\IShapeVisitor.cs",
+              "RelativeToolTip": "Visitor\\IShapeVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:59:03.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\IShape.cs",
+              "RelativeDocumentMoniker": "Visitor\\IShape.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\IShape.cs",
+              "RelativeToolTip": "Visitor\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:58:35.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\Program.cs",
+              "RelativeDocumentMoniker": "Visitor\\Program.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Visitor\\Visitor\\Program.cs",
+              "RelativeToolTip": "Visitor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:57:22.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
