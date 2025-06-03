@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|e:\\git\\design-patterns-lab\\lr_3\\protocol_stack\\protocol_stack\\transportlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|solutionrelative:protocol_stack\\transportlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|e:\\git\\design-patterns-lab\\lr_3\\protocol_stack\\protocol_stack\\protocolstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|solutionrelative:protocol_stack\\protocolstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|e:\\git\\design-patterns-lab\\lr_3\\protocol_stack\\protocol_stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|solutionrelative:protocol_stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|e:\\git\\design-patterns-lab\\lr_3\\protocol_stack\\protocol_stack\\iprotocollayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|solutionrelative:protocol_stack\\iprotocollayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|e:\\git\\design-patterns-lab\\lr_3\\protocol_stack\\protocol_stack\\physicallayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|solutionrelative:protocol_stack\\physicallayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|e:\\git\\design-patterns-lab\\lr_3\\protocol_stack\\protocol_stack\\datalinklayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|solutionrelative:protocol_stack\\datalinklayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|e:\\git\\design-patterns-lab\\lr_3\\protocol_stack\\protocol_stack\\networklayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|solutionrelative:protocol_stack\\networklayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|e:\\git\\design-patterns-lab\\lr_3\\protocol_stack\\protocol_stack\\applicationlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D6FD38-6DC9-447B-AE91-5DB854AC83E0}|Protocol_Stack\\Protocol_Stack.csproj|solutionrelative:protocol_stack\\applicationlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProtocolStack.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\ProtocolStack.cs",
+              "RelativeDocumentMoniker": "Protocol_Stack\\ProtocolStack.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\ProtocolStack.cs",
+              "RelativeToolTip": "Protocol_Stack\\ProtocolStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:35:06.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationLayer.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\ApplicationLayer.cs",
+              "RelativeDocumentMoniker": "Protocol_Stack\\ApplicationLayer.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\ApplicationLayer.cs",
+              "RelativeToolTip": "Protocol_Stack\\ApplicationLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:34:29.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransportLayer.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\TransportLayer.cs",
+              "RelativeDocumentMoniker": "Protocol_Stack\\TransportLayer.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\TransportLayer.cs",
+              "RelativeToolTip": "Protocol_Stack\\TransportLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:33:49.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NetworkLayer.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\NetworkLayer.cs",
+              "RelativeDocumentMoniker": "Protocol_Stack\\NetworkLayer.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\NetworkLayer.cs",
+              "RelativeToolTip": "Protocol_Stack\\NetworkLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:33:11.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataLinkLayer.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\DataLinkLayer.cs",
+              "RelativeDocumentMoniker": "Protocol_Stack\\DataLinkLayer.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\DataLinkLayer.cs",
+              "RelativeToolTip": "Protocol_Stack\\DataLinkLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:32:39.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhysicalLayer.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\PhysicalLayer.cs",
+              "RelativeDocumentMoniker": "Protocol_Stack\\PhysicalLayer.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\PhysicalLayer.cs",
+              "RelativeToolTip": "Protocol_Stack\\PhysicalLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:31:51.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProtocolLayer.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\IProtocolLayer.cs",
+              "RelativeDocumentMoniker": "Protocol_Stack\\IProtocolLayer.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\IProtocolLayer.cs",
+              "RelativeToolTip": "Protocol_Stack\\IProtocolLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:31:08.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Protocol_Stack\\Program.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_3\\Protocol_Stack\\Protocol_Stack\\Program.cs",
+              "RelativeToolTip": "Protocol_Stack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:14:24.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
