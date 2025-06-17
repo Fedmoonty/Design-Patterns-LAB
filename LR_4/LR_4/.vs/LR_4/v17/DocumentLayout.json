@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\pinguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\pinguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\birdhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\birdhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\ibirdfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\ibirdfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\idanceable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\idanceable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\ireproductive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\ireproductive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\isingable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\isingable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\pinguinfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\pinguinfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|e:\\git\\design-patterns-lab\\lr_4\\lr_4\\lr_4\\sparrowfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8B215-BAEA-48E4-B627-4091C3C01139}|LR_4\\LR_4.csproj|solutionrelative:lr_4\\sparrowfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PinguinFactory.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\PinguinFactory.cs",
+              "RelativeDocumentMoniker": "LR_4\\PinguinFactory.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\PinguinFactory.cs",
+              "RelativeToolTip": "LR_4\\PinguinFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:55:28.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SparrowFactory.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\SparrowFactory.cs",
+              "RelativeDocumentMoniker": "LR_4\\SparrowFactory.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\SparrowFactory.cs",
+              "RelativeToolTip": "LR_4\\SparrowFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:54:40.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDanceable.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\IDanceable.cs",
+              "RelativeDocumentMoniker": "LR_4\\IDanceable.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\IDanceable.cs",
+              "RelativeToolTip": "LR_4\\IDanceable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:10:49.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IReproductive.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\IReproductive.cs",
+              "RelativeDocumentMoniker": "LR_4\\IReproductive.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\IReproductive.cs",
+              "RelativeToolTip": "LR_4\\IReproductive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:08:26.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISingable.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\ISingable.cs",
+              "RelativeDocumentMoniker": "LR_4\\ISingable.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\ISingable.cs",
+              "RelativeToolTip": "LR_4\\ISingable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:07:31.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFlyable.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\IFlyable.cs",
+              "RelativeDocumentMoniker": "LR_4\\IFlyable.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\IFlyable.cs",
+              "RelativeToolTip": "LR_4\\IFlyable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:07:16.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWalkable.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\IWalkable.cs",
+              "RelativeDocumentMoniker": "LR_4\\IWalkable.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\IWalkable.cs",
+              "RelativeToolTip": "LR_4\\IWalkable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:06:59.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BirdHandler.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\BirdHandler.cs",
+              "RelativeDocumentMoniker": "LR_4\\BirdHandler.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\BirdHandler.cs",
+              "RelativeToolTip": "LR_4\\BirdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:03:06.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBirdFactory.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\IBirdFactory.cs",
+              "RelativeDocumentMoniker": "LR_4\\IBirdFactory.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\IBirdFactory.cs",
+              "RelativeToolTip": "LR_4\\IBirdFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:03:03.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\Bird.cs",
+              "RelativeDocumentMoniker": "LR_4\\Bird.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\Bird.cs",
+              "RelativeToolTip": "LR_4\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:03:02.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pinguin.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\Pinguin.cs",
+              "RelativeDocumentMoniker": "LR_4\\Pinguin.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\Pinguin.cs",
+              "RelativeToolTip": "LR_4\\Pinguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:03:02.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sparrow.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\Sparrow.cs",
+              "RelativeDocumentMoniker": "LR_4\\Sparrow.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\Sparrow.cs",
+              "RelativeToolTip": "LR_4\\Sparrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:02:37.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\Program.cs",
+              "RelativeDocumentMoniker": "LR_4\\Program.cs",
+              "ToolTip": "E:\\Git\\Design-Patterns-LAB\\LR_4\\LR_4\\LR_4\\Program.cs",
+              "RelativeToolTip": "LR_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:00:59.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
