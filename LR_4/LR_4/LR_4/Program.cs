@@ -1,6 +1,4 @@
-﻿using LR_4;
-
-namespace Coding.SOLID
+﻿namespace LR_4
 {
     internal class Program
     {

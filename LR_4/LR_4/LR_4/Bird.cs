@@ -1,6 +1,4 @@
-﻿using System.Buffers;
-
-namespace LR_4;
+﻿namespace LR_4;
 
 public abstract class Bird : IWalkable, ISingable, IDanceable, IReproductive
 {
